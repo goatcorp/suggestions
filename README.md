@@ -17,7 +17,7 @@ If you want to work on a plugin, make sure to let us know by replying to the iss
 After accepting a request, if you no longer have time to work on it, there's nothing wrong about it. Just let us know on the GitHub thread, so we can release the suggestion for someone else to work on it.
 
 ### I really want *x* plugin but I can't code
-If you find a plugin that you would like to see, be sure to add a :+1: (+1) to it! This way plugin developers will be able to see what plugins are desired the most. Please do not bother the devs to make a plugin, they don't have all day everyday to make plugins for us so be patient!
+If you find a plugin that you would like to see, be sure to add a :+1: (+1) to it! This way plugin developers will be able to see what plugins are desired the most(Make sure your email address is verified!). Please do not bother the devs to make a plugin, they don't have all day everyday to make plugins for us so be patient!
 
 ![How to give thumbs up](https://user-images.githubusercontent.com/16760685/113449314-d8e7a200-93fd-11eb-8a88-32c49b8071f0.png)
 
