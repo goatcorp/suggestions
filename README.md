@@ -19,6 +19,8 @@ After accepting a request, if you no longer have time to work on it, there's not
 ### I really want *x* plugin but I can't code
 If you find a plugin that you would like to see, be sure to add a :+1: (+1) to it! This way plugin developers will be able to see what plugins are desired the most. Please do not bother the devs to make a plugin, they don't have all day everyday to make plugins for us so be patient!
 
+![How to give thumbs up](https://user-images.githubusercontent.com/16760685/113449314-d8e7a200-93fd-11eb-8a88-32c49b8071f0.png)
+
 Please avoid "bumping" issues by posting "+1", or asking if someone's willing to work on it. It can be frustrating to wait for an issue to complete, but it is even more frustrating to send junk emails to everyone (and make Staff' triage work harder!).
 
 ### Workflow
