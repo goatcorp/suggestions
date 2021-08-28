@@ -23,4 +23,4 @@ Feel free to also add context, mockups or anything else here.
 ----
 <!-- You can put an "x" between the brackets to confirm -->
  - [] I checked if this request wasn't already proposed
- - [] I made sure this request follows Dalamud's [plugin guidelines](https://github.com/goatcorp/FFXIVQuickLauncher#isnt-this-cheating)
+ - [] I made sure this request follows Dalamud's [plugin guidelines](https://github.com/goatcorp/FFXIVQuickLauncher)
