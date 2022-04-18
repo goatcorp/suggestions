@@ -15,8 +15,6 @@ body:
     attributes:
       label: More info
       description: "You can get more specific or put technical information here.\nFeel free to also add context, mockups or anything else here."
-    validations:
-      required: true
   - type: checkboxes
     id: terms
     attributes:
