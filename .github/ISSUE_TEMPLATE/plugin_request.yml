@@ -1,6 +1,5 @@
 name: Plugin Request
 description: Request a new plugin
-title: "[Request]:"
 labels: ["discussion requested"]
 body:
   - type: textarea
@@ -15,6 +14,11 @@ body:
     attributes:
       label: More info
       description: "You can get more specific or put technical information here.\nFeel free to also add context, mockups or anything else here."
+  - type: textarea
+    id: original-requestor
+    attributes:
+      label: Original Requestor
+      description: "If this request is being made on behalf of another user, let us know who!"
   - type: checkboxes
     id: terms
     attributes:
