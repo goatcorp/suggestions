@@ -1,0 +1,30 @@
+name: Plugin Request
+description: Request a new plugin
+title: "[Request]:"
+labels: ["discussion requested"]
+body:
+  - type: textarea
+    id: plugin-description
+    attributes:
+      label: Plugin Description
+      description: A clear and concise description of what the plugin would do.
+      Don't get too specific, that's for the next part.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-plugin-info
+    attributes:
+      label: More info
+      description: You can get more specific or put technical information here. Feel free to also add context, mockups or anything else here.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Request Terms
+      description: By submitting this request you have confirmed the following
+      options:
+        - label: I checked if this request wasn't already proposed
+          required: true
+        - label: I made sure this request follows Dalamud's [plugin guidelines](https://github.com/goatcorp/FFXIVQuickLauncher)
+          required: true
