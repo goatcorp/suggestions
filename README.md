@@ -2,12 +2,12 @@
 
 The place where you can share ideas for Dalamud plugins. If you want to make a plugin, just look for issues tagged with `unclaimed`!
 
-Remember that suggested plugins must follow [Dalamud's Plugin Guildelines](https://github.com/goatcorp/FFXIVQuickLauncher#isnt-this-cheating).
+Remember to check that any suggested plugins do not violate [Dalamud's Plugin Restrictions](https://dalamud.dev/plugin-publishing/restrictions).
 
 ## How does this repository work?
 
 ### Submitting an idea
-It can pretty much be anything you want. We'll then do a quick review of the plugin and mark it as up for grabs; as long as it's not a duplicated request, the idea already exists, or goes against the [Dalamud's Plugin Guildelines](https://github.com/goatcorp/FFXIVQuickLauncher#isnt-this-cheating)..
+It can pretty much be anything you want. We'll then do a quick review of the plugin and mark it as up for grabs; as long as it's not a duplicated request, the idea already exists, or violates [Dalamud's Plugin Restrictions](https://dalamud.dev/plugin-publishing/restrictions).
 
 **Make sure when submitting your idea to follow the provided template**. Invalid requests will be rejected automatically, and repeated offenders may see their ability to create suggestions restricted.
 
