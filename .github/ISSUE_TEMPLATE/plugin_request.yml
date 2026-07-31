@@ -27,5 +27,5 @@ body:
       options:
         - label: I checked if this request wasn't already proposed
           required: true
-        - label: I made sure this request follows Dalamud's [plugin guidelines](https://github.com/goatcorp/FFXIVQuickLauncher)
+        - label: I made sure this request does not violate [Dalamud's Plugin Restrictions](https://dalamud.dev/plugin-publishing/restrictions)
           required: true
